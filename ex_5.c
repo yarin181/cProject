@@ -1,7 +1,5 @@
 /***********************
-* Name Yarin Sason
-* ID  318229143
-* Assignment 05
+* Yarin Sason
 ***********************/
 #include <stdio.h>
 #include <stdlib.h>
